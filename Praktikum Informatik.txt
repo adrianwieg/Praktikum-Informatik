@@ -1,5 +1,5 @@
 Hallo Welt!
 
-Hier geht es um Versionsverwaltung von Dateien (und Ordnern).
+Hier geht es um Versionsverwaltung von Dateien.
 Das kann man händisch machen mit z.B. Versionsnummern am Ende des Dateinames.
 Oder mit einem Versionsverwaltungssystem wie z.B. Git.
